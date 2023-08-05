@@ -30,19 +30,19 @@ Don't wait any longer to experience the convenience of NoteShell. Follow the ins
 
 ### Linux:
 
-1. [Download NoteShell for Linux]()
+1. [Download NoteShell for Linux]() NONE
 2. Install the downloaded package using your package manager.
 3. Launch NoteShell and sign in with your account or create a new one.
 
 ### Windows:
 
-1. [Download NoteShell for Windows]()
+1. [Download NoteShell for Windows]() NONE
 2. Run the downloaded installer and follow the on-screen instructions.
 3. Launch NoteShell and sign in with your account or create a new one.
 
 ### Android:
 
-1. [Download NoteShell for Android]()
+1. [Download NoteShell for Android]() NONE
 2. Install the app from the Google Play Store.
 3. Launch NoteShell and sign in with your account or create a new one.
 
