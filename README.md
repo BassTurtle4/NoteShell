@@ -15,11 +15,11 @@ Welcome to NoteShell, the ultimate cross-platform app designed to revolutionize 
 5. **Offline Access:** No internet connection? No problem! NoteShell lets you access your notes even when offline, ensuring you can keep working without interruptions.
 
 6. **Security and Privacy:** Your data is your own, and we take privacy seriously. NoteShell uses top-notch encryption to protect your notes and ensures that only you can access your data.
+<!--
+8. **Multi-Format Support:** Express yourself freely with NoteShell's support for rich text formatting, images, and attachments. Make your notes as vibrant and detailed as your thoughts.
 
-7. **Multi-Format Support:** Express yourself freely with NoteShell's support for rich text formatting, images, and attachments. Make your notes as vibrant and detailed as your thoughts.
-
-8. **Collaboration Made Easy:** Share your notes with friends, family, or colleagues with just a few taps. Collaborate on projects, brainstorm ideas, and keep everyone on the same page with shared notes.
-
+9. **Collaboration Made Easy:** Share your notes with friends, family, or colleagues with just a few taps. Collaborate on projects, brainstorm ideas, and keep everyone on the same page with shared notes.
+-->
 ## Why Choose NoteShell?
 
 NoteShell stands out from the rest with its seamless cross-platform integration, secure data synchronization, and versatile features that cater to all your note-taking needs. Whether you're a student, professional, or creative mind, NoteShell empowers you to capture ideas and stay organized effortlessly.
