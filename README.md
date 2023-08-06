@@ -1,4 +1,4 @@
-Cancelled after finding out about Evernote
+Cancelled after finding out about [Evernote](https://evernote.com/)
 
 # NoteShell: Your Seamless Note-Taking and Reminder Companion
 
