@@ -58,4 +58,4 @@ TBD
 
 ---
 
-Thank you for choosing NoteShell as your trusted note-taking companion! For any further assistance or inquiries, please reach out to our support team at support@noteshell.com.
+Thank you for choosing NoteShell as your trusted note-taking companion! For any further assistance or inquiries, please reach out to our support team at support@bassturtle4.com.
